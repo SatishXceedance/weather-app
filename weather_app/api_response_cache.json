@@ -1,0 +1,80 @@
+{
+    "http://api.openweathermap.org/data/2.5/weather?q=Indore,In&appid=1508a9a4840a5574c822d70ca2132032": {
+        "location_name": "Indore, IN",
+        "temperature": "35.10\u00b0C",
+        "wind": "stations, 5.14 m/s",
+        "cloudiness": 20,
+        "pressure": "1005 hpa",
+        "humidity": "34 %",
+        "sunrise": "00:11",
+        "sunset": "13:37",
+        "geo_coordinates": "[75.8333, 22.7179]",
+        "requested_time": "2021-05-31 08:25:07",
+        "forecast": {}
+    },
+    "http://api.openweathermap.org/data/2.5/weather?q=Bhopal,In&appid=1508a9a4840a5574c822d70ca2132032": {
+        "location_name": "Bhopal, IN",
+        "temperature": "36.13\u00b0C",
+        "wind": "stations, 3.09 m/s",
+        "cloudiness": 20,
+        "pressure": "1004 hpa",
+        "humidity": "41 %",
+        "sunrise": "00:04",
+        "sunset": "13:32",
+        "geo_coordinates": "[77.4, 23.2667]",
+        "requested_time": "2021-05-31 08:25:26",
+        "forecast": {}
+    },
+    "http://api.openweathermap.org/data/2.5/weather?q=Delhi,In&appid=1508a9a4840a5574c822d70ca2132032": {
+        "location_name": "Delhi, IN",
+        "temperature": "37.05\u00b0C",
+        "wind": "stations, 2.15 m/s",
+        "cloudiness": 20,
+        "pressure": "998 hpa",
+        "humidity": "25 %",
+        "sunrise": "23:53",
+        "sunset": "13:43",
+        "geo_coordinates": "[77.2167, 28.6667]",
+        "requested_time": "2021-05-31 08:23:10",
+        "forecast": {}
+    },
+    "http://api.openweathermap.org/data/2.5/weather?q=Mumbai,In&appid=1508a9a4840a5574c822d70ca2132032": {
+        "location_name": "Mumbai, IN",
+        "temperature": "30.99\u00b0C",
+        "wind": "stations, 4.12 m/s",
+        "cloudiness": 75,
+        "pressure": "1005 hpa",
+        "humidity": "84 %",
+        "sunrise": "00:30",
+        "sunset": "13:42",
+        "geo_coordinates": "[72.8479, 19.0144]",
+        "requested_time": "2021-05-31 08:23:25",
+        "forecast": {}
+    },
+    "http://api.openweathermap.org/data/2.5/weather?q=Kolkata,In&appid=1508a9a4840a5574c822d70ca2132032": {
+        "location_name": "Kolkata, IN",
+        "temperature": "26.97\u00b0C",
+        "wind": "stations, 6.74 m/s",
+        "cloudiness": 75,
+        "pressure": "999 hpa",
+        "humidity": "89 %",
+        "sunrise": "23:21",
+        "sunset": "12:46",
+        "geo_coordinates": "[88.3697, 22.5697]",
+        "requested_time": "2021-05-31 08:23:37",
+        "forecast": {}
+    },
+    "http://api.openweathermap.org/data/2.5/weather?q=Harda,In&appid=1508a9a4840a5574c822d70ca2132032": {
+        "location_name": "Harda, IN",
+        "temperature": "39.50\u00b0C",
+        "wind": "stations, 3.34 m/s",
+        "cloudiness": 64,
+        "pressure": "1001 hpa",
+        "humidity": "25 %",
+        "sunrise": "00:07",
+        "sunset": "13:31",
+        "geo_coordinates": "[77.1, 22.3333]",
+        "requested_time": "2021-05-31 08:24:24",
+        "forecast": {}
+    }
+}
