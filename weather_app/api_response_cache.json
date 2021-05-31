@@ -28,14 +28,14 @@
     "http://api.openweathermap.org/data/2.5/weather?q=Delhi,In&appid=1508a9a4840a5574c822d70ca2132032": {
         "location_name": "Delhi, IN",
         "temperature": "37.05\u00b0C",
-        "wind": "stations, 2.15 m/s",
+        "wind": "stations, 1.89 m/s",
         "cloudiness": 20,
-        "pressure": "998 hpa",
+        "pressure": "997 hpa",
         "humidity": "25 %",
         "sunrise": "23:53",
         "sunset": "13:43",
         "geo_coordinates": "[77.2167, 28.6667]",
-        "requested_time": "2021-05-31 08:23:10",
+        "requested_time": "2021-05-31 08:57:30",
         "forecast": {}
     },
     "http://api.openweathermap.org/data/2.5/weather?q=Mumbai,In&appid=1508a9a4840a5574c822d70ca2132032": {
